@@ -1,5 +1,6 @@
 # Checkers
 Checkers game in python
 
-# Command for activate venv
-    env\Scripts\activate.bat
+# Commands for project
+    ## Activate venv
+        env\Scripts\activate.bat
