@@ -1,10 +1,10 @@
 # Checkers
 Checkers game in python
 
-# Commands for project
-## Activate venv
+## Commands for project
+### Activate venv
     env\Scripts\activate.bat
-## Run game
+### Run game
     py main.py
-## Deactivate venv
+### Deactivate venv
     env\Scripts\deactivate
