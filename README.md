@@ -1,6 +1,6 @@
 # Checkers
 Checkers game in python using pygame.
-Game using “MinMax” algorithm for opponent in checkers. 
+The game uses the MiniMax algorithm for the opponent. 
 
 ## Commands for project
 ### Activate venv
